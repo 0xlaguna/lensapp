@@ -1,0 +1,4 @@
+include ':opencv451'
+include ':app'
+rootProject.name = "Ctlens"
+include ':openCVLibrary451'
